@@ -2,11 +2,11 @@ Hello, this is my solution of the challenge from Frontend Mentor.
 
 I hope you enjoy it!
 
+![Screenshot_1](https://user-images.githubusercontent.com/84854141/152856554-e3d62862-54ed-4eb0-a754-7bbe8aebc47e.png)
+
 ----
 
 # Frontend Mentor - QR code component
-
-![Design preview for the QR code component coding challenge](./design/Screenshot_1.png)
 
 ## Welcome! 👋
 
